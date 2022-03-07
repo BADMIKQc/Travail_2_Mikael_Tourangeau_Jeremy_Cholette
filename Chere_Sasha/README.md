@@ -12,4 +12,4 @@
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 
-## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme :
+## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
