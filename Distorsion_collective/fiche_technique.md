@@ -1,8 +1,8 @@
 # Titre : 
-
+## Distorsion collective
 
 # Les créateurs et créatrices : 
-
+## William Dubois et Ghislain Lacombe
 
 # La façon dont le thème du temps est exploité dans la création :
 
