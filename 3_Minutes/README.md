@@ -1,6 +1,8 @@
-## Titre :
+## Titre : 
+# 3 minutes
 
-## Les créateurs et créatrices :
+## Les créateurs et créatrices : 
+# Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin.
 
 ## La façon dont le thème du temps est exploité dans la création :
 
