@@ -13,8 +13,8 @@ une ambiance dépressive et à la fois heureuse dépendamment du coté de la cha
 
 # L'installation en cours dans les studios :
 
-![dreams_bleu](../Medias/Photos/dreams_bleu.jpg)
-
+![sacha_projecteur](../Medias/Photos/Chere_sacha_projecteur.PNG)
+![sacha_installatio](../Medias/Photos/Chere_sacha_installation.PNG)
 
 # Le schéma de l'installation prévue :
 
