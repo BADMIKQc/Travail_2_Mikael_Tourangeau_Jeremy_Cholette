@@ -13,7 +13,7 @@ une ambiance dépressive et à la fois heureuse dépendamment du coté de la cha
 
 # L'installation en cours dans les studios :
 
-![dreams_bleu](Media/photos/dreams_bleu.jpg)
+![dreams_bleu](../Medias/Photos/dreams_bleu.jpg)
 
 
 # Le schéma de l'installation prévue :
