@@ -6,9 +6,9 @@
 
 ## L'ambiance :
 
-## L'installation en cours dans les studios (photos à l'appui) :
+## L'installation en cours dans les studios :
 
-## Le schéma de l'installation prévue (insérer le schéma de plantation, avec la source) :
+## Le schéma de l'installation prévue :
 
 ## Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 
