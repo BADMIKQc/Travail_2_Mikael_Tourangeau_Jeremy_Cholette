@@ -11,7 +11,7 @@
 ## Une ambiance de jeu téléviser avec beaucoup de couleurs avec de la musique pour montrer l'ambiance de jeu pour ensuite passer vers des glitchs avec l'animateur qui devient plus direct envers l'interacteur. À la fin, deux fins sont possibles: une fin normale ou une fin sombre.
 
 # L'installation en cours dans les studios :
-## Une interface de questionnaire avec un projecteur qui affiche le jeu
+## Une interface de questionnaire avec un projecteur qui affiche le jeu.
 ![Jeu_temporel_interface_question](../Medias/Photos/Jeu_temporel_interface_question_loin.PNG)
 ![Jeu_temporel_loin](../Medias/Photos/Jeu_temporel_loin.png)
 
