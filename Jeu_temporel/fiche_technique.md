@@ -12,6 +12,7 @@
 
 # L'installation en cours dans les studios :
 ## un interface de questionnaire avec un projecteur qui affiche le jeu
+![sacha_projecteur](../Medias/Photos/Chere_sacha_projecteur.PNG)
 
 
 # Le schéma de l'installation prévue :
