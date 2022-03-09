@@ -25,4 +25,4 @@ https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.htm
 ## répondre à 15 questions avec quatre boutons pour choisir la réponse que l'on croit vrai.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
-## Animation 2D pour l'animation du personnage. Programmation interactive et bases de données pour créer le questionnaire. Gestion de projets multimédias pour toute la gestion du projet pour réussir à faire le projet.
+## Animation 2D pour l'animation du personnage dans after effect. Programmation interactive et bases de données pour créer le questionnaire. Gestion de projets multimédias pour toute la gestion du projet pour réussir à faire le projet.
