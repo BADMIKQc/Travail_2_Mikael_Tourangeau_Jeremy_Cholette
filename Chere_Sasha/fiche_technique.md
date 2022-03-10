@@ -19,7 +19,7 @@
 # Le schéma de l'installation prévue :
 ![sacha_installatio](../Medias/Photos/Chere_sacha_plantation.PNG)
 
-https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+Source Github Chère Sasha: https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
