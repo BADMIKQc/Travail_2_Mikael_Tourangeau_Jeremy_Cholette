@@ -25,6 +25,7 @@
 Source Github 3 minutes: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 # Ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
+
 ## Nous serons dans un gymnase pour la première de l'expérience. Nous allons pouvoir lancer des ballons sur des éléments qui feront des bruits si nous les touchons avec les ballons. Par exemple, il y un casier dans le coin du gymnase et si un ballon cogne le casier nous pouvons entendre un enfant pleurer. L'autre partie de l'expérience se déroule dans le casier. Nous serons dans la peau de l'enfant qui pleure et nous entendrons les autres enfants jouer aux ballons chasseur dans le gymnase. Nous pourrons entendre une musique triste et déplaisante dans le casier.  
 
 # 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet :
