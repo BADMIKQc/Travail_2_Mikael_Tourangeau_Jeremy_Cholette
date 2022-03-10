@@ -21,7 +21,7 @@
 ![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse_lumiere_et_projecteur.png)
 
 
-![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse.png)
+![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse_kinect.png)
 
 
 # Le schéma de l'installation prévue :
