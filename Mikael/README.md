@@ -1,1 +1,1 @@
-Ce dossier contient les exercices individuels de Mikaël.
+# Ce dossier contient les exercices individuels de Mikaël.
