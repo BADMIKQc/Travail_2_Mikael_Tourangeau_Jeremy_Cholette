@@ -18,7 +18,7 @@
 
 # Le schéma de l'installation prévue :
 
-![[horloge_de_l'apocalypse_plantation](../Medias/Photos/plantation_horloge_de_l'apocalypse.PNG)
+![horloge_de_l'apocalypse_plantation](../Medias/Photos/plantation_horloge_de_l'apocalypse.PNG)
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 
@@ -26,6 +26,6 @@
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
 
 ## Conception sonore pour la musique de chaque période du temps.
-##Conception sonore interactive pour le téléphone qui sonne à la fin de l'expérience.
+## Conception sonore interactive pour le téléphone qui sonne à la fin de l'expérience.
 ## Espace interactif pour l'horloge qui change la période du temps selon l'heure.
 
