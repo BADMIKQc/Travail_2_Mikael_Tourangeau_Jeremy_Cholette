@@ -5,13 +5,14 @@
 ## William Dubois et Ghislain Lacombe
 
 # La façon dont le thème du temps est exploité dans la création :
-## 
+## on se retrouve dans une boucle temporel de cours en ligne avec des travaux qui s'accumulent.
 
 # L'ambiance :
-## 
+## on se retrouve dans la vie d'une personne qui commence les cours en ligne dans sa chambre et sa maison. Plus que le temps s'écoule plus que l'on ressent l'anxiété de la personne à travers de l'ambiance qui devient de plus en plus angoissante.
 
 # L'installation en cours dans les studios :
-![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_plantation.PNG)
+## 
+![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_installation1.PNG)
 
 # Le schéma de l'installation prévue :
 ![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_plantation.PNG)
