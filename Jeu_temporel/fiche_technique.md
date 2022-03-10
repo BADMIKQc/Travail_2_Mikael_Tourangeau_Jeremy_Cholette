@@ -19,7 +19,7 @@
 # Le schéma de l'installation prévue :
 ![Jeu_temporel_plantation](../Medias/Photos/Jeu_temporel_plantation.PNG)
 
-https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
+Source Github Jeu temporel: https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 ## répondre à 15 questions avec quatre boutons pour choisir la réponse que l'on croit vrai.
