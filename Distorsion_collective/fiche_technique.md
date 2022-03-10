@@ -11,10 +11,11 @@
 ## 
 
 # L'installation en cours dans les studios :
-
+![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_plantation.PNG)
 
 # Le schéma de l'installation prévue :
-Distorsion_collective_plantation.PNG
+![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_plantation.PNG)
+
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 ## regarder tous les elements autour et se plonger dans l'univers du jeune homme en regardant la vidéo projettée au mur et ce qui est projeté dans le casque vr.
