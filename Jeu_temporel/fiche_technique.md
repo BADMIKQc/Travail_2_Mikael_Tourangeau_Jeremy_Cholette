@@ -12,7 +12,7 @@
 
 # L'installation en cours dans les studios :
 ## Une interface de questionnaire avec un projecteur qui affiche le jeu.
-![Jeu_temporel_interface_question](../Medias/Photos/Jeu_temporel_interface_question_loin.PNG)
+![Jeu_temporel_interface_question](../Medias/Photos/Jeu_temporel_interface_question_loin.png)
 ![Jeu_temporel_loin](../Medias/Photos/Jeu_temporel_loin.png)
 
 
