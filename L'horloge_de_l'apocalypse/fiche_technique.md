@@ -28,7 +28,7 @@
 
 ![horloge_de_l'apocalypse_plantation](../Medias/Photos/plantation_horloge_de_l'apocalypse.PNG)
 
-https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+Source Github Horloge de l'apocalypse: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 Nous allons entrer dans une salle. Lorsque que nous entrons une kinect situer au plafond déclenchera une lumière. Nous allons nous dirigervers un piédestal sur lequel sera poser une horloge. Chaque fois que nous allons avancer l'heure sur l'horloge,les projecteurs situer au plafond vont projeter des périodes du temps différentes. À la fin de l'expérience, un son de téléphone sera entendu. Lorsque nous intéragirons avec celui-ci, une caméra projetera une vidéode nous dans la pièce créant une atmosphètede pression et de stress. 
