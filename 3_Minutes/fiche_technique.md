@@ -16,11 +16,11 @@
 
 ##Il y aura un casque VR dans un petit casier et les joueurs seront à l'intérieur de celui-ci pour une partie de l'expérience. L'autre partie se déroulera à l'extérieur du casier.
 
-![sacha_projecteur](../Medias/Photos/installation_3_minutes.PNG)
+![3_minutes_installation](../Medias/Photos/installation_3_minutes.PNG)
 
 # Le schéma de l'installation prévue :
 
-![sacha_projecteur](../Medias/Photos/plantation_3_minutes.PNG)
+![3_minutes_plantation](../Medias/Photos/plantation_3_minutes.PNG)
 
 https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
