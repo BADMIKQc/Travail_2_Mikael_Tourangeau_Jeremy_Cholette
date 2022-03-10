@@ -11,13 +11,22 @@
 ## L'ambiance est relaxante et appaisante.
 
 # L'installation en cours dans les studios :
+## 4 Grands tableaux s'anime selon la position ou les gestes de l'intéracteur.
 
+![chronaufrage_installation](../Medias/Photos/installation_chronaufrage.PNG)
+
+![chronaufrage_installation](../Medias/Photos/installation_chronaufrage_1.PNG)
 
 # Le schéma de l'installation prévue :
 
+![chronaufrage_plantation](../Medias/Photos/plantation_chronaufrage.PNG)
+
+https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
-
+## Animation 2D pour créer les animations dans les tableaux.
+## Espace interactif pour déclencher les effets de l'eau qui s'agite lorsque l'intéracteur s'approche des cadres.
+## Conception sonore pour créer les effets sonores d'eau des tableaux.
