@@ -7,7 +7,7 @@
 
 
 # La façon dont le thème du temps est exploité dans la création :
-## Nous avons deux points de vue, celui d'un enfant qui joue au baloon avec une musique entrainante et celui d'un enfant qui est enfermé dans un casier. Ils essaient de démontrer que le temps semble plus long lorsque l'ont est triste que lorsque que nous avons du plaisir.
+## Nous avons deux points de vue, celui d'un enfant qui joue au ballon dans un gymnase avec une musique entrainante et celui d'un enfant qui est enfermé dans un casier. Ils essaient de démontrer que le temps semble plus long lorsque l'ont est triste que lorsque que nous avons du plaisir.
 
 # L'ambiance : 
 ## Pour la partie où l'enfant joue au ballon c'est une ambiance dynamique et joyeuse alors que lorsque l'enfant est dans le casier c'est une ambiance triste.
@@ -27,6 +27,6 @@ https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
-## Réalité virtuelle
-## Conception sonore
-## Modélisation 3D
+## Réalité virtuelle pour créer l'expérience VR.
+## Conception sonore pour créer les sons de casiers et la musique entrainante.
+## Modélisation 3D pour modéliser le décor du casier et du gymnase
