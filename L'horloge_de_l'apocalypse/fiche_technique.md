@@ -10,7 +10,7 @@
 
 # L'ambiance :
 
-## L'ambiance va varier durant l'expérience, elle va passer d'une ambiance calme jusqu'à la fin de l'expérience qui va être une ambiance apocalyptique
+## L'ambiance va varier durant l'expérience, elle va passer d'une ambiance calme jusqu'à la fin de l'expérience qui va être une ambiance stressnte et qui va mettre de la pression sur l'intéracteur. 
 
 # L'installation en cours dans les studios :
 ## Il va y avoir 3 projecteurs qui vont afficher les différentes périodes du temps. Au milieu de la pièce il y a l'horloge qui permet de changer de période et le téléphone sur un piédestal.
