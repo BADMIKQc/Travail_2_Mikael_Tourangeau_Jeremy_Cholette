@@ -27,3 +27,6 @@ https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
+## Réalité virtuelle
+## Conception sonore
+## Modélisation 3D
