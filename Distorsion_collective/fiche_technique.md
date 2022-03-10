@@ -16,7 +16,7 @@
 
 # Le schéma de l'installation prévue :
 ![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_plantation.PNG)
-
+ Source Github Distorsion collective: https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
 
 # Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
 ## regarder tous les éléments autour et se plonger dans l'univers du jeune homme en regardant la vidéo projetée au mur et ce qui est projeté dans le casque Vr.
