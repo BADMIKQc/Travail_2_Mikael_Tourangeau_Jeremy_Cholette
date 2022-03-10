@@ -17,9 +17,11 @@
 
 ![horloge_de_l'apocalypse_installation](../Medias/Photos/installation_horloge_de_l'apocalypse.PNG)
 
-![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse_lumière_et_projecteur.PNG)
 
-![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse.PNG)
+![horloge_de_l'apocalypse_plantation](../Medias/Photos/horloge_de_l'apocalypse_lumiere_et_projecteur.PNG)
+
+
+![horloge_de_l'apocalypse_plantation](../Medias/Photos/horlog_de_l'apocalypse.PNG)
 
 
 # Le schéma de l'installation prévue :
