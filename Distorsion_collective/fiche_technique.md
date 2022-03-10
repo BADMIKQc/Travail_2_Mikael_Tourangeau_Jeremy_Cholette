@@ -11,7 +11,7 @@
 ## on se retrouve dans la vie d'une personne qui commence les cours en ligne dans sa chambre et sa maison. Plus que le temps s'écoule plus que l'on ressent l'anxiété de la personne à travers de l'ambiance qui devient de plus en plus angoissante.
 
 # L'installation en cours dans les studios :
-## un casque de Vr et un projecteur
+## un casque de Vr et un projecteur qui affiche sur le mur un discussion.
 ![Distorsion_collective_plantation](../Medias/Photos/Distorsion_collective_installation1.PNG)
 
 # Le schéma de l'installation prévue :
