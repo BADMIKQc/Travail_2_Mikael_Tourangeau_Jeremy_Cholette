@@ -2,7 +2,7 @@
 ## Chronaufrage
 
 # Les créateurs et créatrices : 
-## Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte et Émilie Fontaine
+## Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte et Émilie Fontaine.
 
 # La façon dont le thème du temps est exploité dans la création :
 ## Le thème du temps est exploité à travers l'eau. Plus nous nous approchons de l'oeuvre et plus l'eau s'agite et plus nous nous éloignons et plus l'eau se calme.
