@@ -30,10 +30,11 @@
 
 Source Github Horloge de l'apocalypse: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
 
-# Ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
+# Ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation :
+
 ## Nous allons entrer dans une salle. Lorsque nous entrons une kinect situer au plafond déclenchera une lumière. Nous allons nous diriger vers un piédestal sur lequel sera posé une horloge. Chaque fois que nous allons avancer l'heure sur l'horloge, les projecteurs situer au plafond vont projeter des périodes du temps différentes. À la fin de l'expérience, un son de téléphone sera entendu. Lorsque nous interagirons avec celui-ci, une caméra projettera une vidéo de nous dans la pièce créant une atmosphère de pression et de stress. 
 
-# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet :
+# 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet :
 
 ## Conception sonore pour la musique de chaque période du temps.
 ## Conception sonore interactive pour le téléphone qui sonne à la fin de l'expérience.
